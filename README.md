@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Zorya;Passionate+about+Materials+Science;AI+Agents+%26+Molecular+Simulation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Zorya;Exploring+AI+for+Science;Polymer+Physics+%26+AI;Crafting+AI+Agents" alt="Typing SVG" />
 </div>
 
 <h3 align="center">A researcher bridging AI and Materials Science ⚛️🎓</h3>
