@@ -14,8 +14,8 @@
 
 ### ⚙️ Key Projects
 - 🧬 **[mamba2poly](https://github.com/Azhi-ss/mamba2poly)** - Polymer property prediction based on Mamba architecture.
-- 🤖 **[Azhi_agents](https://github.com/Azhi-ss/Azhi_agents)** - 强大的多功能 AI 智能体聚合与自动化开发框架。
-- ⚡ **[autoscf](https://github.com/Azhi-ss/autoscf)** - 旨在加速和自动化计算化学自洽场 (SCF) 的辅助工作流。
+- 🤖 **[Azhi_agents](https://github.com/Azhi-ss/Azhi_agents)** - A powerful and versatile AI agents aggregation and automation framework.
+- ⚡ **[autoscf](https://github.com/Azhi-ss/autoscf)** - An automated workflow designed to accelerate Self-Consistent Field (SCF) calculations in computational chemistry.
 
 <br/>
 
