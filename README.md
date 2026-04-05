@@ -49,15 +49,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhi-ss&show_icons=true&theme=radical&hide_border=true" alt="Azhi-ss's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhi-ss&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
