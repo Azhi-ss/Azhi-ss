@@ -1,43 +1,49 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Zorya;Exploring+AI+for+Science;Polymer+Physics+%26+AI;Crafting+AI+Agents" alt="Typing SVG" />
+  <br>
+  <p><b>A researcher bridging AI and Materials Science ⚛️🎓</b></p>
 </div>
-
-<h3 align="center">A researcher bridging AI and Materials Science ⚛️🎓</h3>
 
 <br/>
 
 ### 🔬 Research & Interests
+
 - 🧬 **Materials Science**: Polymer Physics, Computational Chemistry, Molecular Dynamics
 - 🤖 **AI & Simulation**: Large Language Models (LLMs), AI Agents, AI for Science (AI4S)
 
-<br/>
-
 ### ⚙️ Key Projects
+
 - 🧬 **[mamba2poly](https://github.com/Azhi-ss/mamba2poly)** - Polymer property prediction based on Mamba architecture.
 - 🤖 **[Azhi_agents](https://github.com/Azhi-ss/Azhi_agents)** - A powerful and versatile AI agents aggregation and automation framework.
 - ⚡ **[autoscf](https://github.com/Azhi-ss/autoscf)** - An automated workflow designed to accelerate Self-Consistent Field (SCF) calculations in computational chemistry.
 
-<br/>
-
 ### 💻 Tech Stack & Tools
 
-**🧬 Computational Chemistry**
-<div align="left">
-  <img src="https://img.shields.io/badge/-GROMACS-FFC20E?style=for-the-badge&logoColor=black" alt="GROMACS" />
-  <img src="https://img.shields.io/badge/-Gaussian-0B72B9?style=for-the-badge&logoColor=white" alt="Gaussian" />
-  <img src="https://img.shields.io/badge/-VASP-D22D2D?style=for-the-badge&logoColor=white" alt="VASP" />
-  <img src="https://img.shields.io/badge/-LAMMPS-1E8CBE?style=for-the-badge&logoColor=white" alt="LAMMPS" />
-</div>
+**🧬 Computational Chemistry**<br>
+![GROMACS](https://img.shields.io/badge/GROMACS-FFC20E?style=for-the-badge&logoColor=black)
+![Gaussian](https://img.shields.io/badge/Gaussian-0B72B9?style=for-the-badge&logoColor=white)
+![VASP](https://img.shields.io/badge/VASP-D22D2D?style=for-the-badge&logoColor=white)
+![LAMMPS](https://img.shields.io/badge/LAMMPS-1E8CBE?style=for-the-badge&logoColor=white)
 
-**🧠 AI & Deep Learning**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,matlab,r&perline=8" alt="AI Icons" />
-</div>
+<br>
 
-**⚙️ Architecture & Databases**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,linux,ubuntu,bash,git&perline=8" alt="Tools Icons" />
-</div>
+**🧠 AI & Data Science**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+<br>
+
+**⚙️ Architecture & Databases**<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
@@ -45,7 +51,5 @@
 
 <div align="center">
   <i>"Simulating the future of materials, one atom at a time."</i><br><br>
-  <b>Let's connect and build something awesome! ✨</b><br>
-  <br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 </div>
