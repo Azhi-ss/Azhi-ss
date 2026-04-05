@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Zorya;Exploring+AI+for+Science;Polymer+Physics+%26+AI;Crafting+AI+Agents" alt="Typing SVG" />
   <br>
   <p><b>A researcher bridging AI and Materials Science ⚛️🎓</b></p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Azhi-ss&color=00F0FF&style=flat-square" alt="Profile views" />
 </div>
 
 <br/>
@@ -44,6 +46,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhi-ss&show_icons=true&theme=radical&hide_border=true" alt="Azhi-ss's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azhi-ss&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+</div>
 
 <br/>
 
