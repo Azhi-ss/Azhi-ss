@@ -20,8 +20,23 @@
 <br/>
 
 ### 💻 Tech Stack & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,linux,bash,git,docker,c,cpp,latex,md,vscode&perline=6" alt="Skill Icons" />
+
+**🧬 Computational Chemistry**
+<div align="left">
+  <img src="https://img.shields.io/badge/-GROMACS-FFC20E?style=for-the-badge&logoColor=black" alt="GROMACS" />
+  <img src="https://img.shields.io/badge/-Gaussian-0B72B9?style=for-the-badge&logoColor=white" alt="Gaussian" />
+  <img src="https://img.shields.io/badge/-VASP-D22D2D?style=for-the-badge&logoColor=white" alt="VASP" />
+  <img src="https://img.shields.io/badge/-LAMMPS-1E8CBE?style=for-the-badge&logoColor=white" alt="LAMMPS" />
+</div>
+
+**🧠 AI & Deep Learning**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit,matlab,r&perline=8" alt="AI Icons" />
+</div>
+
+**⚙️ Architecture & Databases**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,linux,ubuntu,bash,git&perline=8" alt="Tools Icons" />
 </div>
 
 <br/>
