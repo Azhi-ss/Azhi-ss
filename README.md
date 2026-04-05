@@ -8,8 +8,14 @@
 
 ### 🔬 Research & Interests
 - 🧬 **Materials Science**: Polymer Physics, Computational Chemistry, Molecular Dynamics
-- 🤖 **AI & Simulation**: Large Language Models (LLMs), AI Agents (`Azhi_agents`), AI for Science (AI4S)
-- ⚙️ **Key Projects**: `Uni-Mol`, `RadonPy`, `PolyConFM`, `autoscf`
+- 🤖 **AI & Simulation**: Large Language Models (LLMs), AI Agents, AI for Science (AI4S)
+
+<br/>
+
+### ⚙️ Key Projects
+- 🧬 **[mamba2poly](https://github.com/Azhi-ss/mamba2poly)** - Polymer property prediction based on Mamba architecture.
+- 🤖 **[Azhi_agents](https://github.com/Azhi-ss/Azhi_agents)** - 强大的多功能 AI 智能体聚合与自动化开发框架。
+- ⚡ **[autoscf](https://github.com/Azhi-ss/autoscf)** - 旨在加速和自动化计算化学自洽场 (SCF) 的辅助工作流。
 
 <br/>
 
