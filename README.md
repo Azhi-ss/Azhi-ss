@@ -51,6 +51,12 @@
 
 ---
 
+### 📊 Contribution Graph
+
+![Contribution Graph](https://github-contributions.vercel.app/api/?username=Azhi-ss&theme=Teal)
+
+---
+
 <div align="center">
   <i>"Simulating the future of materials, one atom at a time."</i><br><br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
