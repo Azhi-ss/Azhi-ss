@@ -51,19 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhi-ss&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117,1a150a&title_color=F0C040&icon_color=E8912D&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azhi-ss&theme=dark&hide_border=true&background=0D1117,1a150a&stroke=F0C040&ring=F0C040&fire=E8912D&currStreakLabel=F0C040&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/F0C040/Azhi-ss" alt="Contribution Graph" width="700" />
-</div>
-
----
-
 <div align="center">
   <i>"Simulating the future of materials, one atom at a time."</i><br><br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
