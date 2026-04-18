@@ -51,9 +51,16 @@
 
 ---
 
-### 📊 Contribution Graph
+### 📊 GitHub Stats & Contributions
 
-![Contribution Graph](https://github-contributions.vercel.app/api/?username=Azhi%2Dss&theme=Teal)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhi-ss&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a1a&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azhi-ss&theme=dark&hide_border=true&background=0a0a1a&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00F0FF/Azhi-ss" alt="Contribution Graph" width="700" />
+</div>
 
 ---
 
