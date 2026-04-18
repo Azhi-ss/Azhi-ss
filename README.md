@@ -53,7 +53,7 @@
 
 ### 📊 Contribution Graph
 
-![Contribution Graph](https://github-contributions.vercel.app/api/?username=Azhi-ss&theme=Teal)
+![Contribution Graph](https://github-contributions.vercel.app/api/?username=Azhi%2Dss&theme=Teal)
 
 ---
 
