@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhi-ss&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a1a&title_color=F0C040&icon_color=F0C040&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azhi-ss&theme=dark&hide_border=true&background=0a0a1a&stroke=F0C040&ring=F0C040&fire=F0C040&currStreakLabel=F0C040&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azhi-ss&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a1a&title_color=F778BA&icon_color=F778BA&text_color=c9d1d9" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azhi-ss&theme=dark&hide_border=true&background=0a0a1a&stroke=F778BA&ring=F778BA&fire=F778BA&currStreakLabel=F778BA&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/F0C040/Azhi-ss" alt="Contribution Graph" width="700" />
+  <img src="https://ghchart.rshah.org/F778BA/Azhi-ss" alt="Contribution Graph" width="700" />
 </div>
 
 ---
