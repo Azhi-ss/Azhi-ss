@@ -1,7 +1,8 @@
 #### Hello
 
-- I'm Zorya. I work on polymer informatics at DP Technology.
-- Molecules are represented through force fields. Search, paper figures, and agents have to be checkable.
+- I'm Zorya, at DP Technology. I work on polymer informatics, and on the agents around that work.
+- I build coding agents and skills: multi-agent swarms, Feishu workflows, paper-figure skills, and bounded algorithm search.
+- A force field represents the molecule. An agent is finished only when a checker passes.
 - Beijing
 
 #### Languages & Tools
